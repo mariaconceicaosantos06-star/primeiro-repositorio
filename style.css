@@ -3,6 +3,13 @@ body{
     color:aliceblue /* cor da escrita */ 
 }
 
+header {
+ border: solid 2px rgba(137, 9, 9, 0.836);
+ font-size: 32px;
+ padding: 10px;
+ color: darkmagenta;
+}
+
 h1{
     font-size: 30px; /* tamanho da fonte */
     text-align: center; /* centralizado */
