@@ -1,6 +1,7 @@
 body{
     background-color: rgb(136, 46, 220); /* cor do fundo da página */
-    color:aliceblue /* cor da escrita */ 
+    color:aliceblue; /* cor da escrita */
+    font-family:"Bitcount Prop Single Ink";
 }
 
 header {
