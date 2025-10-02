@@ -9,6 +9,17 @@ header {
  padding: 10px;
  color: darkmagenta;
 }
+section{
+    background-color:#882ddd ; /*cor escolhida*/
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
 
 h1{
     font-size: 30px; /* tamanho da fonte */
@@ -17,6 +28,6 @@ h1{
 }
 
 p{
-    font-size 16px;
+    font-size:16px;
     color:aliceblue
 }
